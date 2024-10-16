@@ -1,0 +1,16 @@
+asgiref==3.8.1
+Brotli==1.1.0
+certifi==2024.8.30
+charset-normalizer==3.4.0
+Django==5.1.2
+flup==1.0.3
+idna==3.10
+mutagen==1.47.0
+pycryptodomex==3.21.0
+requests==2.32.3
+sqlparse==0.5.1
+typing_extensions==4.12.2
+urllib3==2.2.3
+websockets==13.1
+yt-dlp==2024.10.7
+yt-dlp-youtube-oauth2 @ https://github.com/coletdjnz/yt-dlp-youtube-oauth2/archive/refs/heads/master.zip
